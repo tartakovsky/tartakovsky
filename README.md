@@ -11,7 +11,7 @@ Lisbon-based founder. At the moment I'm running [seochecks.ai](https://seochecks
 ## Experience (overlapping)
 
 - 6+ years building with AI, since before it was called AI.
-- 8 years trading financial markets.
+- 8 years of algorithmic and HFT trading on financial markets.
 - 12+ years managing software teams.
 - 17+ years writing software: Rust, Python, full-stack TypeScript, cloud architecture, iOS, Android, C++/CUDA.
 
@@ -25,4 +25,4 @@ Lisbon-based founder. At the moment I'm running [seochecks.ai](https://seochecks
 
 ## Reach
 
-[LinkedIn](https://www.linkedin.com/in/etartakovsky/) · eugene@trtk.me
+[LinkedIn](https://www.linkedin.com/in/etartakovsky/)
