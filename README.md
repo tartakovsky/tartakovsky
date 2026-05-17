@@ -1,16 +1,29 @@
-### Hi there 👋
+# Eugene Tartakovsky
 
-<!--
-**tartakovsky/tartakovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lisbon-based founder. At the moment I'm running [seochecks.ai](https://seochecks.ai), because AI search and SEO have never been more important and the tooling for both is years behind the problem.
 
-Here are some ideas to get you started:
+## Track record
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Built and exited 2 companies. Closed several others without going broke.
+- Built engineering teams that shipped good products.
+- Found a co-founder I work great with.
+- Made a ton of good and bad calls and learned a lot.
+
+## Experience (overlapping)
+
+- 6+ years building with AI, since before it was called AI.
+- 8 years trading financial markets.
+- 12+ years managing software teams.
+- 17+ years writing software: Rust, Python, full-stack TypeScript, cloud architecture, iOS, Android, C++/CUDA.
+
+## Open source
+
+[Agent Quality Controls](https://github.com/agent-quality-controls) - deterministic suite for catching defects in agent-written code and prose:
+
+- [guardrail3](https://github.com/agent-quality-controls/guardrail3) - banned-by-default code guardrails for Rust and TypeScript.
+- [fixture3](https://github.com/agent-quality-controls/fixture3) - fixture-based approval testing CLI.
+- [slopless](https://github.com/agent-quality-controls/slopless) - deterministic Markdown linter for AI and human prose slop.
+
+## Reach
+
+[LinkedIn](https://www.linkedin.com/in/etartakovsky/) · eugene@trtk.me
