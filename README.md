@@ -6,7 +6,6 @@ Lisbon-based founder. At the moment I'm running [seochecks.ai](https://seochecks
 
 - Built and exited 2 companies. Closed several others without going broke.
 - Built engineering teams that shipped good products.
-- Found a co-founder I work great with.
 - Made a ton of good and bad calls and learned a lot.
 
 ## Experience (overlapping)
